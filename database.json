@@ -1,0 +1,38 @@
+[
+    {
+        "username": "admin",
+        "password": "admin123",
+        "tasks": []
+    },
+    {
+        "username": "user1",
+        "password": "userpass"
+    },
+    {
+        "username": "miguel",
+        "password": "miguel123",
+        "tasks": [
+            {
+                "task_name": "Home Work",
+                "due_date": "2024-12-25",
+                "status": "todo"
+            },
+            {
+                "task_name": "Learn machine learning",
+                "due_date": "2024-12-30",
+                "status": "todo"
+            },
+            {
+                "task_name": "ID Camp Machine Learning",
+                "due_date": "2024-12-30",
+                "status": "todo"
+            },
+            {
+                "task_name": "PHP dasar",
+                "due_date": "2024-12-23",
+                "status": "todo",
+                "task": "PHP dasar"
+            }
+        ]
+    }
+]
